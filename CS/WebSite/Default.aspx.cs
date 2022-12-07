@@ -6,9 +6,7 @@ using System.Data;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
-using DevExpress.Web.ASPxEditors;
-using DevExpress.Web.ASPxGridView;
-using DevExpress.Web.ASPxHiddenField;
+using DevExpress.Web;
 using System.Web.UI.HtmlControls;
 
 public partial class _Default: System.Web.UI.Page {
