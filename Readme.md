@@ -2,7 +2,7 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E5149)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-# Grid View for ASP.NET Web Forms - How to display buttons that ungroup columns
+# Grid View for ASP.NET Web Forms - How to display ungroup buttons in column headers
 <!-- run online -->
 **[[Run Online]](https://codecentral.devexpress.com/e5149/)**
 <!-- run online end -->
