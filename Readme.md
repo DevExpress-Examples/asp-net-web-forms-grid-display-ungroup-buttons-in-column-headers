@@ -10,7 +10,7 @@ This example demonstrates how to display buttons that allow users to ungroup col
 
 ![Display Ungroup Buttons](result.png)
 
-Define the [HeaderCaptionTemplate](https://docs.devexpress.com/AspNet/DevExpress.Web.GridViewColumn.HeaderCaptionTemplate) for columns with non-negative [group index](https://docs.devexpress.com/AspNet/DevExpress.Web.GridViewDataColumn.GroupIndex) to display ungroup buttons in headers of grouped columns:
+Define the [HeaderCaptionTemplate](https://docs.devexpress.com/AspNet/DevExpress.Web.GridViewColumn.HeaderCaptionTemplate) for columns with a non-negative [group index](https://docs.devexpress.com/AspNet/DevExpress.Web.GridViewDataColumn.GroupIndex) to display ungroup buttons in headers of grouped columns:
 
 ```cs
 protected void CreateUnGroupButton() { 
